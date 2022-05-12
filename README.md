@@ -1,2 +1,2 @@
 # moderation-team-bot
-Türkiyenin en gelişmiş moderasyon ve ekip botunun tek hali.
+https://youtu.be/3kpnBOF7ZGw
