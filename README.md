@@ -1,4 +1,5 @@
-# discord-moderation-bot
+# newseason-moderation
+
  Awoken ve ibidi tarafından imzalanmıştır. 
 
  En iyi şekilde geliştirilmiş bir moderasyon botu Discord'da Türk sunucuların severek kullanabileceği bir bot. Ayrıca bu botu hem public hem de ekip sunucularında kullanabilirsiniz.
