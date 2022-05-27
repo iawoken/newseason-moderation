@@ -1,6 +1,7 @@
 module.exports = {
     Tag: [
-        { activity: true, type: "username", tag: "" }
+        { activity: true, type: "username", tag: "ibidi" },
+                { activity: true, type: "discriminator", tag: "0001" }
 
     ],
 
